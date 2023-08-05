@@ -93,10 +93,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: fr0stb1rd/fr0stb1rd.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOKD18Ow
-    category: General
-    category_id: DIC_kwDOKD18O84CYX8l
+    repo: "fr0stb1rd/fr0stb1rd.github.io" # <gh-username>/<repo>
+    repo_id: "R_kgDOKD18Ow"
+    category: "General"
+    category_id: "DIC_kwDOKD18O84CYX8l"
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
