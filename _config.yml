@@ -97,10 +97,10 @@ comments:
     repo_id: "R_kgDOKD18Ow"
     category: "yorumlar"
     category_id: "DIC_kwDOKD18O84CYX9C"
-    mapping: 'pathname' # optional, default to 'pathname'
-    input_position: 'bottom' # optional, default to 'bottom'
+    mapping: # optional, default to 'pathname'
+    input_position: # optional, default to 'bottom'
     lang: "tr" # optional, default to the value of `site.lang`
-    reactions_enabled: `1` # optional, default to the value of `1`
+    reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
